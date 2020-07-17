@@ -33,6 +33,9 @@
 
 
 #### Video
+- ETHIndia Online: DApp 101 Workshop : https://www.youtube.com/watch?v=oROBqp3xj4o
+
+<br/>
 
 - DApp 101 - Build a DApp from scratch on Ethereum & Matic https://www.youtube.com/watch?v=DGcbX5A67KQ (or doc: https://docs.matic.network/docs/develop/full-stack-dapp-with-pos/) 
 - ETHIndia Online: Matic Network https://www.youtube.com/watch?v=-DvONglu_Qc
