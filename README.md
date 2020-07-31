@@ -26,6 +26,7 @@
       https://docs.matic.network/docs/develop/maticjs/getting-started/#introducing-maticjs
       
 - New to Matic?  https://docs.matic.network/docs/home/new-to-matic
+- Beginner-friendly tutorial to Matic.js https://medium.com/matic-network/beginner-friendly-tutorial-to-matic-js-7020b0e5f024
 
 <br/>
 
