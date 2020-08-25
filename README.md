@@ -28,6 +28,11 @@
 - New to Matic?  https://docs.matic.network/docs/home/new-to-matic
 - Beginner-friendly tutorial to Matic.js https://medium.com/matic-network/beginner-friendly-tutorial-to-matic-js-7020b0e5f024
 
+### NOTION
+
+https://www.notion.so/Welcome-Hackers-bf2d6a097e834170a72b6b4d75913516
+
+
 <br/>
 
 ![Screenshot](https://user-images.githubusercontent.com/43414928/87798907-32a53d80-c86a-11ea-9ac2-9cfe54893165.png)
