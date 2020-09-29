@@ -30,8 +30,10 @@
 
 ### NOTION
 
-https://www.notion.so/Welcome-Hackers-bf2d6a097e834170a72b6b4d75913516
+- https://www.notion.so/Build-on-Matic-ETHOnline-2020-Helper-Doc-60650299256f4c1c9e90bae365cbd88e
+- https://www.notion.so/Welcome-Hackers-bf2d6a097e834170a72b6b4d75913516
 
+https://www.youtube.com/watch?v=5tKzMcflOcY&t=608s&ab_channel=ETHGlobal
 
 <br/>
 
